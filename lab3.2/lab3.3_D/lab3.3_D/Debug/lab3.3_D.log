@@ -1,0 +1,14 @@
+﻿  Complex_Private.cpp
+E:\oop\lab3.3_D\lab3.3_D\Complex_Private.cpp(44,19): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+E:\oop\lab3.3_D\lab3.3_D\Complex_Private.cpp(49,19): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+E:\oop\lab3.3_D\lab3.3_D\Complex_Private.cpp(54,33): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+E:\oop\lab3.3_D\lab3.3_D\Complex_Private.cpp(59,43): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Complex_Public.cpp
+E:\oop\lab3.3_D\lab3.3_D\Complex_Public.cpp(42,19): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+E:\oop\lab3.3_D\lab3.3_D\Complex_Public.cpp(47,19): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+E:\oop\lab3.3_D\lab3.3_D\Complex_Public.cpp(52,33): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+E:\oop\lab3.3_D\lab3.3_D\Complex_Public.cpp(57,43): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  LB_3.3_D.cpp
+  Pair.cpp
+  Generating Code...
+  lab3.3_D.vcxproj -> E:\oop\lab3.3_D\Debug\lab3.3_D.exe
