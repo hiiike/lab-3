@@ -1,0 +1,7 @@
+﻿  UnitTest3.3_E.cpp
+D:\Project\OOP\LB3\LB_3.3_E\Complex.cpp(42,19): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+D:\Project\OOP\LB3\LB_3.3_E\Complex.cpp(47,19): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+D:\Project\OOP\LB3\LB_3.3_E\Complex.cpp(52,33): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+D:\Project\OOP\LB3\LB_3.3_E\Complex.cpp(57,43): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+     Creating library D:\Project\OOP\LB3\LB_3.3_E\Debug\UnitTest3.3_E.lib and object D:\Project\OOP\LB3\LB_3.3_E\Debug\UnitTest3.3_E.exp
+  UnitTest3.3_E.vcxproj -> D:\Project\OOP\LB3\LB_3.3_E\Debug\UnitTest3.3_E.dll
